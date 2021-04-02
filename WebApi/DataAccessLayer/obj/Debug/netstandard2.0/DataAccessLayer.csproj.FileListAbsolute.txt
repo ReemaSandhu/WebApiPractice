@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\bin\Debug\netstandard2.0\WebAPIEntities.dll
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\bin\Debug\netstandard2.0\WebAPIEntities.pdb
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\dell\source\repos\WebApi\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

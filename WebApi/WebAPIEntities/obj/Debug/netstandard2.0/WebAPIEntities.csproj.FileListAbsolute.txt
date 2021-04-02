@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\bin\Debug\netstandard2.0\WebAPIEntities.deps.json
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\bin\Debug\netstandard2.0\WebAPIEntities.dll
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\bin\Debug\netstandard2.0\WebAPIEntities.pdb
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\obj\Debug\netstandard2.0\WebAPIEntities.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\obj\Debug\netstandard2.0\WebAPIEntities.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\obj\Debug\netstandard2.0\WebAPIEntities.AssemblyInfo.cs
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\obj\Debug\netstandard2.0\WebAPIEntities.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\obj\Debug\netstandard2.0\WebAPIEntities.dll
+C:\Users\dell\source\repos\WebApi\WebAPIEntities\obj\Debug\netstandard2.0\WebAPIEntities.pdb
