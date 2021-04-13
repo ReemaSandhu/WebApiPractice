@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\bin\Debug\netstandard2.0\WebEntities.deps.json
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\bin\Debug\netstandard2.0\WebEntities.dll
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\bin\Debug\netstandard2.0\WebEntities.pdb
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\obj\Debug\netstandard2.0\WebEntities.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\obj\Debug\netstandard2.0\WebEntities.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\obj\Debug\netstandard2.0\WebEntities.AssemblyInfo.cs
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\obj\Debug\netstandard2.0\WebEntities.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\obj\Debug\netstandard2.0\WebEntities.dll
+C:\Users\dell\source\repos\DigitalBookStores\WebEntities\obj\Debug\netstandard2.0\WebEntities.pdb

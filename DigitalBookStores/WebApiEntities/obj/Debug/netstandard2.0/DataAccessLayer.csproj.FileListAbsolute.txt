@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\bin\Debug\netstandard2.0\appsettings.Development.json
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\bin\Debug\netstandard2.0\WebEntities.dll
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\bin\Debug\netstandard2.0\WebEntities.pdb
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\dell\source\repos\DigitalBookStores\WebApiEntities\obj\Debug\netstandard2.0\DataAccessLayer.pdb
